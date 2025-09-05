@@ -17,7 +17,7 @@ In this lab, we will create an **Application Load Balancer (ALB)** that distribu
    ![](./media/lb-step2.png)
 
 3. **Configure the Load Balancer**
-   - Enter **Load Balancer Name**: `server-alb`.
+   - Enter **Load Balancer Name**: `Server-alb`.
    - Select **Internet-facing** as the load balancing type.  
    ![](./media/lb-step3.png)
 
@@ -41,7 +41,7 @@ In this lab, we will create an **Application Load Balancer (ALB)** that distribu
 
 6. **Configure Target Group**
    - **Target Type**: `Instances`
-   - **Target Group Name**: `server-tg`
+   - **Target Group Name**: `Server-tg`
    - **Protocol**: HTTP
    - **Port**: 80
    - Click **Next**.  
