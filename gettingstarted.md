@@ -1,3 +1,5 @@
+Before starting the hands-on lab, kindly note that the lab duration will be shown at the top right corner of your lab environment page once the lab is launched by clicking the **Launch Lab** button. The time will be ticking automatically, so it's important to keep an eye on it while performing your lab tasks.
+
 Follow the steps below to get started with the lab.
 
 1. Sign in to the AWS Management Console by copying the **Sign-in link, Username, and Password** provided below.
